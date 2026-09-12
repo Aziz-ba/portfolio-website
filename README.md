@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-A clean, responsive **personal portfolio** built with plain **HTML & CSS** — dark theme, mobile-friendly, zero dependencies (just one Google Font). It showcases who I am, my skills, and my featured projects, and links back to my GitHub and LinkedIn.
+A clean, responsive **personal portfolio** built with plain **HTML & CSS** - dark theme, mobile-friendly, zero dependencies (just one Google Font). It showcases who I am, my skills, and my featured projects, and links back to my GitHub and LinkedIn.
 
 ## 🔗 Live site
 
@@ -8,9 +8,9 @@ A clean, responsive **personal portfolio** built with plain **HTML & CSS** — d
 
 ## ✨ Features
 
-- 📱 **Fully responsive** — CSS grid + flexbox, adapts from mobile to desktop
+- 📱 **Fully responsive** - CSS grid + flexbox, adapts from mobile to desktop
 - 🌙 **Modern dark UI** with a single accent color and smooth scrolling
-- ⚡ **Zero build step** — static HTML/CSS, deployable anywhere (hosted here on GitHub Pages)
+- ⚡ **Zero build step** - static HTML/CSS, deployable anywhere (hosted here on GitHub Pages)
 - 🧩 Sections: hero, about, skills, featured projects (linked to their repos), contact
 
 ## 🛠️ Tech
